@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "web3-d8ee8"
+  },
+  "targets": {},
+  "etags": {
+    "web3-d8ee8": {
+      "extensionInstances": {
+        "moralis-auth": "134842c6aa757bf0204a7d95a4f0a4f273af1d512f8c9bd6b9021fd3dc31aaf5"
+      }
+    }
+  }
+}
